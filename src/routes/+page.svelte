@@ -79,7 +79,7 @@
 			<div class="grid grid-cols-2">
 				<div class="flex flex-col space-y-8">
 					<p class="p-2 text-xl leading-loose" style="font-family: 'Noto Sans'">
-						I’m a <span class="text-xl font-bold text-sky-500">Software Engineer II at F5</span>,
+						I’m a <span class="text-2xl font-bold text-sky-500">Software Engineer II at F5</span>,
 						where I balance between Site Reliability Engineering (SRE) and Development. I work with
 						Kubernetes and AWS Cloud, using tools like Helm, Argo, and the LMA stack (Prometheus,
 						Cortex, Loki, and Elasticsearch). I have built detailed Grafana dashboards as well with
